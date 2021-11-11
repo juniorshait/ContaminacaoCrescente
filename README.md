@@ -1,4 +1,2 @@
 # ContaminacaoCrescente
 Trabalho Grafos
-
-teste
